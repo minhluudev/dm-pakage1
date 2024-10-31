@@ -1,10 +1,15 @@
 {
-    "name": "minhluu/dm-pakage1",
-    "authors": [
-        {
-            "name": "Minh Luu",
-            "email": "minhluuth@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "minhluu/dm-pakage1",
+  "autoload": {
+    "psr-4": {
+      "MTLite\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Minh Luu",
+      "email": "minhluuth@gmail.com"
+    }
+  ],
+  "require": {}
 }

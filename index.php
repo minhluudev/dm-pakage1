@@ -1,3 +1,7 @@
 <?php
+require_once  './vendor/autoload.php';
 
-echo "Hello world";
+use MTLite\Controller;
+
+
+new Controller();
