@@ -1,0 +1,10 @@
+{
+    "name": "minh/dm-pakage1",
+    "authors": [
+        {
+            "name": "Minh Luu",
+            "email": "minhluuth@gmail.com"
+        }
+    ],
+    "require": {}
+}
